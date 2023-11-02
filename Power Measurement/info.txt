@@ -1,0 +1,2 @@
+supply voltage: 5.2v
+take pca and mnist_model
