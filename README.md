@@ -1,5 +1,9 @@
 # Extended-Featureset-Adaptation-PCA
 
+This repository contains the source code to reproduce the results of paper:
+
+`Karn, Rupesh Raj, and Ibrahim Abe M. Elfadel. "Hardware/Software Co-acceleration of Progressive Learning under Feature Dimension Variation." In 2022 International Conference on Electrical and Computing Technologies and Applications (ICECTA), pp. 275-278. IEEE, 2022`.
+
 This work uses synaptic weight consolidation methodology implemented in 
 
     https://github.com/ganguli-lab/pathint
